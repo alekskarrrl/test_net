@@ -1,0 +1,153 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="ReadMe.txt" />
+    <None Include="app.ico">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="..\..\..\..\..\program files (x86)\microsoft visual studio 10.0\vc\include\cerrno" />
+    <None Include="..\..\..\..\..\program files (x86)\microsoft visual studio 10.0\vc\include\cfloat" />
+    <None Include="..\..\..\..\..\program files (x86)\microsoft visual studio 10.0\vc\include\climits" />
+    <None Include="..\..\..\..\..\program files (x86)\microsoft visual studio 10.0\vc\include\cmath" />
+    <None Include="..\..\..\..\..\program files (x86)\microsoft sdks\windows\v7.0a\include\commctrl.rh" />
+    <None Include="..\..\..\..\..\program files (x86)\microsoft visual studio 10.0\vc\include\cstring" />
+    <None Include="..\..\..\..\..\program files (x86)\microsoft visual studio 10.0\vc\include\cstdlib" />
+    <None Include="..\..\..\..\..\program files (x86)\microsoft visual studio 10.0\vc\include\cstdio" />
+    <None Include="..\..\..\..\..\program files (x86)\microsoft visual studio 10.0\vc\include\cstddef" />
+    <None Include="..\..\..\..\..\program files (x86)\microsoft visual studio 10.0\vc\include\ios" />
+    <None Include="..\..\..\..\..\program files (x86)\microsoft visual studio 10.0\vc\include\fstream" />
+    <None Include="..\..\..\..\..\program files (x86)\microsoft visual studio 10.0\vc\include\exception" />
+    <None Include="..\..\..\..\..\program files (x86)\microsoft sdks\windows\v7.0a\include\dde.rh" />
+    <None Include="..\..\..\..\..\program files (x86)\microsoft visual studio 10.0\vc\include\cwchar" />
+    <None Include="..\..\..\..\..\program files (x86)\microsoft visual studio 10.0\vc\include\new" />
+    <None Include="..\..\..\..\..\program files (x86)\microsoft visual studio 10.0\vc\include\limits" />
+    <None Include="..\..\..\..\..\program files (x86)\microsoft visual studio 10.0\vc\include\istream" />
+    <None Include="..\..\..\..\..\program files (x86)\microsoft visual studio 10.0\vc\include\iostream" />
+    <None Include="..\..\..\..\..\program files (x86)\microsoft visual studio 10.0\vc\include\iosfwd" />
+    <None Include="..\..\..\..\..\program files (x86)\microsoft visual studio 10.0\vc\include\typeinfo" />
+    <None Include="..\..\..\..\..\program files (x86)\microsoft visual studio 10.0\vc\include\type_traits" />
+    <None Include="..\..\..\..\..\program files (x86)\microsoft visual studio 10.0\vc\include\system_error" />
+    <None Include="..\..\..\..\..\program files (x86)\microsoft visual studio 10.0\vc\include\streambuf" />
+    <None Include="..\..\..\..\..\program files (x86)\microsoft visual studio 10.0\vc\include\stdexcept" />
+    <None Include="..\..\..\..\..\program files (x86)\microsoft visual studio 10.0\vc\include\ostream" />
+    <None Include="..\..\..\..\..\program files (x86)\microsoft visual studio 10.0\vc\include\xxtype_traits" />
+    <None Include="..\..\..\..\..\program files (x86)\microsoft visual studio 10.0\vc\include\xxtuple1" />
+    <None Include="..\..\..\..\..\program files (x86)\microsoft visual studio 10.0\vc\include\xxtuple0" />
+    <None Include="..\..\..\..\..\program files (x86)\microsoft visual studio 10.0\vc\include\xxshared" />
+    <None Include="..\..\..\..\..\program files (x86)\microsoft visual studio 10.0\vc\include\xxresult" />
+    <None Include="..\..\..\..\..\program files (x86)\microsoft visual studio 10.0\vc\include\xxrefwrap" />
+    <None Include="..\..\..\..\..\program files (x86)\microsoft visual studio 10.0\vc\include\xxpmfcaller" />
+    <None Include="..\..\..\..\..\program files (x86)\microsoft visual studio 10.0\vc\include\xxmem_fn" />
+    <None Include="..\..\..\..\..\program files (x86)\microsoft visual studio 10.0\vc\include\xxfunction" />
+    <None Include="..\..\..\..\..\program files (x86)\microsoft visual studio 10.0\vc\include\xxcallpmf" />
+    <None Include="..\..\..\..\..\program files (x86)\microsoft visual studio 10.0\vc\include\xxcallobj" />
+    <None Include="..\..\..\..\..\program files (x86)\microsoft visual studio 10.0\vc\include\xxcallfun" />
+    <None Include="..\..\..\..\..\program files (x86)\microsoft visual studio 10.0\vc\include\xxbind1" />
+    <None Include="..\..\..\..\..\program files (x86)\microsoft visual studio 10.0\vc\include\xutility" />
+    <None Include="..\..\..\..\..\program files (x86)\microsoft visual studio 10.0\vc\include\xtr1common" />
+    <None Include="..\..\..\..\..\program files (x86)\microsoft visual studio 10.0\vc\include\xstring" />
+    <None Include="..\..\..\..\..\program files (x86)\microsoft visual studio 10.0\vc\include\xstddef" />
+    <None Include="..\..\..\..\..\program files (x86)\microsoft visual studio 10.0\vc\include\xmemory" />
+    <None Include="..\..\..\..\..\program files (x86)\microsoft visual studio 10.0\vc\include\xlocnum" />
+    <None Include="..\..\..\..\..\program files (x86)\microsoft visual studio 10.0\vc\include\xlocinfo" />
+    <None Include="..\..\..\..\..\program files (x86)\microsoft visual studio 10.0\vc\include\xlocale" />
+    <None Include="..\..\..\..\..\program files (x86)\microsoft visual studio 10.0\vc\include\xiosbase" />
+    <None Include="..\..\..\..\..\program files (x86)\microsoft visual studio 10.0\vc\include\xfwrap1" />
+    <None Include="..\..\..\..\..\program files (x86)\microsoft visual studio 10.0\vc\include\xfwrap" />
+    <None Include="..\..\..\..\..\program files (x86)\microsoft visual studio 10.0\vc\include\xdebug" />
+    <None Include="..\..\..\..\..\program files (x86)\microsoft sdks\windows\v7.0a\include\winuser.rh" />
+    <None Include="..\..\..\..\..\program files (x86)\microsoft sdks\windows\v7.0a\include\winnt.rh" />
+    <None Include="..\..\..\..\..\program files (x86)\microsoft visual studio 10.0\vc\include\utility" />
+    <None Include="..\..\..\..\..\program files (x86)\microsoft visual studio 10.0\vc\include\wtime.inl">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="..\..\..\..\..\program files (x86)\microsoft sdks\windows\v7.0a\include\winuser.inl">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="..\..\..\..\..\program files (x86)\microsoft sdks\windows\v7.0a\include\winbase.inl">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="..\..\..\..\..\program files (x86)\microsoft visual studio 10.0\vc\include\time.inl">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="..\..\..\..\..\program files (x86)\microsoft visual studio 10.0\vc\include\swprintf.inl">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="..\..\..\..\..\program files (x86)\microsoft sdks\windows\v7.0a\include\prsht.inl">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="..\..\..\..\..\program files (x86)\microsoft sdks\windows\v7.0a\include\commdlg.inl">
+      <Filter>Header Files</Filter>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="test_net.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="AssemblyInfo.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="stdafx.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="layer.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="net.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="neuron.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="RandomGenerator.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Form1.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="stdafx.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="resource.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="layer.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="net.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="neuron.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="RandomGenerator.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="app.rc">
+      <Filter>Resource Files</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Form1.resX">
+      <Filter>Resource Files</Filter>
+    </EmbeddedResource>
+  </ItemGroup>
+</Project>
